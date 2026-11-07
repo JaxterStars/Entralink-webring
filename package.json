@@ -1,0 +1,26 @@
+{
+  "name": "entralink-webring",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaxterStars/Entralink-webring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JaxterStars/Entralink-webring/issues"
+  },
+  "homepage": "https://github.com/JaxterStars/Entralink-webring#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}
